@@ -1,0 +1,31 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Pie chart showing total CO₂ emissions by continent.",
+  "data": {"url": "co2_greenHouseGas_Emissions.csv"},
+  "mark": {"type": "arc", "outerRadius": 150, "tooltip": true},
+  "encoding": {
+    "theta": {"field": "Total_C02", "type": "quantitative"},
+    "color": {
+      "field": "Continent",
+      "type": "nominal",
+      "title": "Continent",
+      "legend": {
+            "orient": "none",
+            "direction": "vertical",
+            "legendX": 300,
+            "legendY": 50,
+            "titleAnchor": "middle",
+            "gradientLength": 300
+          }
+    },
+    "tooltip": [
+      {"field": "Continent", "type": "nominal"},
+      {
+        "field": "Total_C02",
+        "type": "quantitative",
+        "title": "CO₂ Emissions (Mt)",
+        "format": ",.2f"
+      }
+    ]
+  }
+}

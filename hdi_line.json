@@ -1,0 +1,69 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Human Development Index (HDI) for selected countries by year with dropdown filter and annotation.",
+  "data": {"url": "https://raw.githubusercontent.com/Akmalaxe/HomeWork-Week10-FIT3179/refs/heads/main/hdi_trends1.csv"},
+  "params": [
+    {
+      "name": "year_selection",
+      "value": 2020,
+      "bind": {
+        "input": "select",
+        "options": [2015, 2020, 2021, 2022, 2023],
+        "name": "Select Year: "
+      }
+    }
+  ],
+  "transform": [
+    {"filter": "datum.Year == year_selection"},
+    {"filter": "datum.HDI > 0"}
+  ],
+  "layer": [
+    {
+      "mark": {
+        "type": "bar",
+        "cornerRadiusTopLeft": 4,
+        "cornerRadiusTopRight": 4,
+        "width": 20
+      },
+      "encoding": {
+        "x": {
+          "field": "Country",
+          "type": "nominal",
+          "title": null,
+          "axis": {"labelAngle": 0, "labelFontSize": 8, "titleFontSize": 13}
+        },
+        "y": {
+          "field": "HDI",
+          "type": "quantitative",
+          "title": "Human Development Index",
+          "scale": {"domain": [0, 1]},
+          "axis": {"labelFontSize": 6, "titleFontSize": 10}
+        },
+        "color": {"value": "#1f77b4"},
+        "tooltip": [
+          {"field": "Country", "title": "Country"},
+          {"field": "Year", "title": "Year"},
+          {"field": "HDI", "title": "HDI", "format": ".3f"}
+        ]
+      }
+    },
+    {
+      "mark": {
+        "type": "text",
+        "text": "HDI > 0.8 signals strong education, health, and income.",
+        "fontSize": 10,
+        "align": "right",
+        "color": "black",
+        "x": 375,
+        "y": 5
+      }
+    }
+  ],
+  "config": {
+    "view": {"stroke": "transparent"},
+    "axis": {"grid": false},
+    "bar": {"size": 35}
+  },
+  "width": 450,
+  "height": 350
+}

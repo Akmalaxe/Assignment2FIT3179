@@ -1,0 +1,1561 @@
+Country,Year,HDI
+Iceland,1990,0.841
+Iceland,2000,0.902
+Iceland,2010,0.935
+Iceland,2015,0.956
+Iceland,2020,0.965
+Iceland,2021,0.967
+Iceland,2022,0.964
+Iceland,2023,0.972
+Norway,1990,0.856
+Norway,2000,0.924
+Norway,2010,0.947
+Norway,2015,0.959
+Norway,2020,0.969
+Norway,2021,0.969
+Norway,2022,0.967
+Norway,2023,0.97
+Switzerland,1990,0.858
+Switzerland,2000,0.892
+Switzerland,2010,0.945
+Switzerland,2015,0.957
+Switzerland,2020,0.963
+Switzerland,2021,0.968
+Switzerland,2022,0.966
+Switzerland,2023,0.97
+Denmark,1990,0.844
+Denmark,2000,0.896
+Denmark,2010,0.92
+Denmark,2015,0.943
+Denmark,2020,0.954
+Denmark,2021,0.958
+Denmark,2022,0.959
+Denmark,2023,0.962
+Germany,1990,0.834
+Germany,2000,0.897
+Germany,2010,0.936
+Germany,2015,0.948
+Germany,2020,0.955
+Germany,2021,0.958
+Germany,2022,0.955
+Germany,2023,0.959
+Sweden,1990,0.818
+Sweden,2000,0.912
+Sweden,2010,0.918
+Sweden,2015,0.945
+Sweden,2020,0.951
+Sweden,2021,0.958
+Sweden,2022,0.959
+Sweden,2023,0.959
+Australia,1990,0.867
+Australia,2000,0.897
+Australia,2010,0.929
+Australia,2015,0.938
+Australia,2020,0.95
+Australia,2021,0.954
+Australia,2022,0.952
+Australia,2023,0.958
+"Hong Kong, China (SAR)",1990,0.755
+"Hong Kong, China (SAR)",2000,0.839
+"Hong Kong, China (SAR)",2010,0.912
+"Hong Kong, China (SAR)",2015,0.937
+"Hong Kong, China (SAR)",2020,0.95
+"Hong Kong, China (SAR)",2021,0.961
+"Hong Kong, China (SAR)",2022,0.95
+"Hong Kong, China (SAR)",2023,0.955
+Netherlands,1990,0.855
+Netherlands,2000,0.9
+Netherlands,2010,0.925
+Netherlands,2015,0.94
+Netherlands,2020,0.945
+Netherlands,2021,0.951
+Netherlands,2022,0.953
+Netherlands,2023,0.955
+Belgium,1990,0.824
+Belgium,2000,0.894
+Belgium,2010,0.921
+Belgium,2015,0.933
+Belgium,2020,0.939
+Belgium,2021,0.948
+Belgium,2022,0.945
+Belgium,2023,0.951
+Ireland,1990,0.776
+Ireland,2000,0.869
+Ireland,2010,0.915
+Ireland,2015,0.931
+Ireland,2020,0.948
+Ireland,2021,0.946
+Ireland,2022,0.947
+Ireland,2023,0.949
+Finland,1990,0.823
+Finland,2000,0.898
+Finland,2010,0.92
+Finland,2015,0.938
+Finland,2020,0.947
+Finland,2021,0.949
+Finland,2022,0.946
+Finland,2023,0.948
+Singapore,1990,0.819
+Singapore,2000,0.882
+Singapore,2010,0.932
+Singapore,2015,0.935
+Singapore,2020,0.944
+Singapore,2021,0.948
+Singapore,2022,0.942
+Singapore,2023,0.946
+United Kingdom,1990,0.812
+United Kingdom,2000,0.87
+United Kingdom,2010,0.921
+United Kingdom,2015,0.931
+United Kingdom,2020,0.93
+United Kingdom,2021,0.941
+United Kingdom,2022,0.946
+United Kingdom,2023,0.946
+United Arab Emirates,1990,0.713
+United Arab Emirates,2000,0.79
+United Arab Emirates,2010,0.835
+United Arab Emirates,2015,0.857
+United Arab Emirates,2020,0.909
+United Arab Emirates,2021,0.903
+United Arab Emirates,2022,0.921
+United Arab Emirates,2023,0.94
+Canada,1990,0.865
+Canada,2000,0.894
+Canada,2010,0.918
+Canada,2015,0.932
+Canada,2020,0.931
+Canada,2021,0.937
+Canada,2022,0.935
+Canada,2023,0.939
+Liechtenstein,1990,..
+Liechtenstein,2000,0.882
+Liechtenstein,2010,0.914
+Liechtenstein,2015,0.925
+Liechtenstein,2020,0.929
+Liechtenstein,2021,0.933
+Liechtenstein,2022,0.936
+Liechtenstein,2023,0.938
+New Zealand,1990,0.811
+New Zealand,2000,0.896
+New Zealand,2010,0.926
+New Zealand,2015,0.934
+New Zealand,2020,0.94
+New Zealand,2021,0.939
+New Zealand,2022,0.933
+New Zealand,2023,0.938
+United States,1990,0.878
+United States,2000,0.895
+United States,2010,0.919
+United States,2015,0.928
+United States,2020,0.925
+United States,2021,0.921
+United States,2022,0.93
+United States,2023,0.938
+Korea (Republic of),1990,0.738
+Korea (Republic of),2000,0.83
+Korea (Republic of),2010,0.894
+Korea (Republic of),2015,0.914
+Korea (Republic of),2020,0.928
+Korea (Republic of),2021,0.933
+Korea (Republic of),2022,0.928
+Korea (Republic of),2023,0.937
+Slovenia,1990,0.734
+Slovenia,2000,0.829
+Slovenia,2010,0.896
+Slovenia,2015,0.909
+Slovenia,2020,0.918
+Slovenia,2021,0.924
+Slovenia,2022,0.926
+Slovenia,2023,0.931
+Austria,1990,0.832
+Austria,2000,0.879
+Austria,2010,0.912
+Austria,2015,0.919
+Austria,2020,0.925
+Austria,2021,0.93
+Austria,2022,0.927
+Austria,2023,0.93
+Japan,1990,0.853
+Japan,2000,0.889
+Japan,2010,0.907
+Japan,2015,0.917
+Japan,2020,0.922
+Japan,2021,0.922
+Japan,2022,0.921
+Japan,2023,0.925
+Malta,1990,0.735
+Malta,2000,0.79
+Malta,2010,0.867
+Malta,2015,0.892
+Malta,2020,0.903
+Malta,2021,0.914
+Malta,2022,0.917
+Malta,2023,0.924
+Luxembourg,1990,0.787
+Luxembourg,2000,0.861
+Luxembourg,2010,0.909
+Luxembourg,2015,0.913
+Luxembourg,2020,0.916
+Luxembourg,2021,0.918
+Luxembourg,2022,0.922
+Luxembourg,2023,0.922
+France,1990,0.798
+France,2000,0.852
+France,2010,0.888
+France,2015,0.901
+France,2020,0.909
+France,2021,0.915
+France,2022,0.916
+France,2023,0.92
+Israel,1990,0.787
+Israel,2000,0.839
+Israel,2010,0.889
+Israel,2015,0.902
+Israel,2020,0.912
+Israel,2021,0.918
+Israel,2022,0.921
+Israel,2023,0.919
+Spain,1990,0.766
+Spain,2000,0.833
+Spain,2010,0.875
+Spain,2015,0.895
+Spain,2020,0.901
+Spain,2021,0.912
+Spain,2022,0.911
+Spain,2023,0.918
+Czechia,1990,0.753
+Czechia,2000,0.817
+Czechia,2010,0.88
+Czechia,2015,0.9
+Czechia,2020,0.898
+Czechia,2021,0.901
+Czechia,2022,0.911
+Czechia,2023,0.915
+Italy,1990,0.787
+Italy,2000,0.849
+Italy,2010,0.887
+Italy,2015,0.889
+Italy,2020,0.899
+Italy,2021,0.908
+Italy,2022,0.905
+Italy,2023,0.915
+San Marino,1990,0
+San Marino,2000,0.881
+San Marino,2010,0.905
+San Marino,2015,0.896
+San Marino,2020,0.895
+San Marino,2021,0.903
+San Marino,2022,0.91
+San Marino,2023,0.915
+Andorra,1990,0
+Andorra,2000,0.825
+Andorra,2010,0.87
+Andorra,2015,0.869
+Andorra,2020,0.851
+Andorra,2021,0.871
+Andorra,2022,0.893
+Andorra,2023,0.913
+Cyprus,1990,0.749
+Cyprus,2000,0.808
+Cyprus,2010,0.869
+Cyprus,2015,0.882
+Cyprus,2020,0.905
+Cyprus,2021,0.907
+Cyprus,2022,0.908
+Cyprus,2023,0.913
+Greece,1990,0.77
+Greece,2000,0.828
+Greece,2010,0.876
+Greece,2015,0.888
+Greece,2020,0.896
+Greece,2021,0.897
+Greece,2022,0.897
+Greece,2023,0.908
+Poland,1990,0.722
+Poland,2000,0.801
+Poland,2010,0.852
+Poland,2015,0.879
+Poland,2020,0.88
+Poland,2021,0.884
+Poland,2022,0.902
+Poland,2023,0.906
+Estonia,1990,0.738
+Estonia,2000,0.793
+Estonia,2010,0.868
+Estonia,2015,0.888
+Estonia,2020,0.901
+Estonia,2021,0.899
+Estonia,2022,0.902
+Estonia,2023,0.905
+Saudi Arabia,1990,0.67
+Saudi Arabia,2000,0.737
+Saudi Arabia,2010,0.801
+Saudi Arabia,2015,0.851
+Saudi Arabia,2020,0.875
+Saudi Arabia,2021,0.878
+Saudi Arabia,2022,0.893
+Saudi Arabia,2023,0.9
+Bahrain,1990,0.734
+Bahrain,2000,0.775
+Bahrain,2010,0.81
+Bahrain,2015,0.868
+Bahrain,2020,0.885
+Bahrain,2021,0.885
+Bahrain,2022,0.902
+Bahrain,2023,0.899
+Lithuania,1990,0.745
+Lithuania,2000,0.778
+Lithuania,2010,0.854
+Lithuania,2015,0.869
+Lithuania,2020,0.888
+Lithuania,2021,0.887
+Lithuania,2022,0.888
+Lithuania,2023,0.895
+Portugal,1990,0.707
+Portugal,2000,0.797
+Portugal,2010,0.836
+Portugal,2015,0.857
+Portugal,2020,0.87
+Portugal,2021,0.876
+Portugal,2022,0.883
+Portugal,2023,0.89
+Croatia,1990,0
+Croatia,2000,0.769
+Croatia,2010,0.831
+Croatia,2015,0.852
+Croatia,2020,0.867
+Croatia,2021,0.876
+Croatia,2022,0.886
+Croatia,2023,0.889
+Latvia,1990,0.736
+Latvia,2000,0.764
+Latvia,2010,0.833
+Latvia,2015,0.859
+Latvia,2020,0.879
+Latvia,2021,0.871
+Latvia,2022,0.881
+Latvia,2023,0.889
+Qatar,1990,0.767
+Qatar,2000,0.795
+Qatar,2010,0.834
+Qatar,2015,0.86
+Qatar,2020,0.872
+Qatar,2021,0.866
+Qatar,2022,0.883
+Qatar,2023,0.886
+Slovakia,1990,0.698
+Slovakia,2000,0.774
+Slovakia,2010,0.851
+Slovakia,2015,0.861
+Slovakia,2020,0.867
+Slovakia,2021,0.859
+Slovakia,2022,0.873
+Slovakia,2023,0.88
+Chile,1990,0.718
+Chile,2000,0.771
+Chile,2010,0.823
+Chile,2015,0.855
+Chile,2020,0.856
+Chile,2021,0.865
+Chile,2022,0.869
+Chile,2023,0.878
+Hungary,1990,0.73
+Hungary,2000,0.781
+Hungary,2010,0.838
+Hungary,2015,0.847
+Hungary,2020,0.857
+Hungary,2021,0.852
+Hungary,2022,0.867
+Hungary,2023,0.87
+Argentina,1990,0.733
+Argentina,2000,0.789
+Argentina,2010,0.844
+Argentina,2015,0.859
+Argentina,2020,0.851
+Argentina,2021,0.847
+Argentina,2022,0.858
+Argentina,2023,0.865
+Montenegro,1990,0
+Montenegro,2000,0
+Montenegro,2010,0.815
+Montenegro,2015,0.839
+Montenegro,2020,0.841
+Montenegro,2021,0.84
+Montenegro,2022,0.853
+Montenegro,2023,0.862
+Uruguay,1990,0.713
+Uruguay,2000,0.764
+Uruguay,2010,0.796
+Uruguay,2015,0.818
+Uruguay,2020,0.837
+Uruguay,2021,0.837
+Uruguay,2022,0.852
+Uruguay,2023,0.862
+Oman,1990,0
+Oman,2000,0.707
+Oman,2010,0.804
+Oman,2015,0.838
+Oman,2020,0.843
+Oman,2021,0.834
+Oman,2022,0.846
+Oman,2023,0.858
+Türkiye,1990,0.598
+Türkiye,2000,0.669
+Türkiye,2010,0.75
+Türkiye,2015,0.821
+Türkiye,2020,0.838
+Türkiye,2021,0.841
+Türkiye,2022,0.853
+Türkiye,2023,0.853
+Kuwait,1990,0.698
+Kuwait,2000,0.778
+Kuwait,2010,0.812
+Kuwait,2015,0.832
+Kuwait,2020,0.837
+Kuwait,2021,0.839
+Kuwait,2022,0.845
+Kuwait,2023,0.852
+Antigua and Barbuda,1990,0
+Antigua and Barbuda,2000,0
+Antigua and Barbuda,2010,0.828
+Antigua and Barbuda,2015,0.839
+Antigua and Barbuda,2020,0.84
+Antigua and Barbuda,2021,0.843
+Antigua and Barbuda,2022,0.848
+Antigua and Barbuda,2023,0.851
+Seychelles,1990,0
+Seychelles,2000,0
+Seychelles,2010,0.758
+Seychelles,2015,0.819
+Seychelles,2020,0.853
+Seychelles,2021,0.838
+Seychelles,2022,0.836
+Seychelles,2023,0.848
+Bulgaria,1990,0.706
+Bulgaria,2000,0.733
+Bulgaria,2010,0.799
+Bulgaria,2015,0.824
+Bulgaria,2020,0.826
+Bulgaria,2021,0.817
+Bulgaria,2022,0.835
+Bulgaria,2023,0.845
+Romania,1990,0.719
+Romania,2000,0.73
+Romania,2010,0.822
+Romania,2015,0.823
+Romania,2020,0.832
+Romania,2021,0.829
+Romania,2022,0.84
+Romania,2023,0.845
+Georgia,1990,0
+Georgia,2000,0.705
+Georgia,2010,0.77
+Georgia,2015,0.807
+Georgia,2020,0.822
+Georgia,2021,0.819
+Georgia,2022,0.838
+Georgia,2023,0.844
+Saint Kitts and Nevis,1990,0
+Saint Kitts and Nevis,2000,0
+Saint Kitts and Nevis,2010,0.791
+Saint Kitts and Nevis,2015,0.83
+Saint Kitts and Nevis,2020,0.828
+Saint Kitts and Nevis,2021,0.818
+Saint Kitts and Nevis,2022,0.829
+Saint Kitts and Nevis,2023,0.84
+Panama,1990,0.672
+Panama,2000,0.718
+Panama,2010,0.775
+Panama,2015,0.803
+Panama,2020,0.808
+Panama,2021,0.819
+Panama,2022,0.835
+Panama,2023,0.839
+Brunei Darussalam,1990,0.781
+Brunei Darussalam,2000,0.792
+Brunei Darussalam,2010,0.83
+Brunei Darussalam,2015,0.839
+Brunei Darussalam,2020,0.836
+Brunei Darussalam,2021,0.835
+Brunei Darussalam,2022,0.825
+Brunei Darussalam,2023,0.837
+Kazakhstan,1990,0.689
+Kazakhstan,2000,0.692
+Kazakhstan,2010,0.781
+Kazakhstan,2015,0.819
+Kazakhstan,2020,0.826
+Kazakhstan,2021,0.816
+Kazakhstan,2022,0.831
+Kazakhstan,2023,0.837
+Costa Rica,1990,0.677
+Costa Rica,2000,0.72
+Costa Rica,2010,0.776
+Costa Rica,2015,0.803
+Costa Rica,2020,0.819
+Costa Rica,2021,0.817
+Costa Rica,2022,0.823
+Costa Rica,2023,0.833
+Serbia,1990,0
+Serbia,2000,0.701
+Serbia,2010,0.775
+Serbia,2015,0.802
+Serbia,2020,0.809
+Serbia,2021,0.807
+Serbia,2022,0.826
+Serbia,2023,0.833
+Russian Federation,1990,0.762
+Russian Federation,2000,0.75
+Russian Federation,2010,0.808
+Russian Federation,2015,0.833
+Russian Federation,2020,0.818
+Russian Federation,2021,0.813
+Russian Federation,2022,0.826
+Russian Federation,2023,0.832
+Belarus,1990,0
+Belarus,2000,0.724
+Belarus,2010,0.803
+Belarus,2015,0.825
+Belarus,2020,0.815
+Belarus,2021,0.817
+Belarus,2022,0.824
+Belarus,2023,0.824
+Bahamas,1990,0.762
+Bahamas,2000,0.787
+Bahamas,2010,0.801
+Bahamas,2015,0.807
+Bahamas,2020,0.797
+Bahamas,2021,0.794
+Bahamas,2022,0.818
+Bahamas,2023,0.82
+Malaysia,1990,0.653
+Malaysia,2000,0.733
+Malaysia,2010,0.779
+Malaysia,2015,0.8
+Malaysia,2020,0.81
+Malaysia,2021,0.802
+Malaysia,2022,0.81
+Malaysia,2023,0.819
+North Macedonia,1990,0.644
+North Macedonia,2000,0.686
+North Macedonia,2010,0.765
+North Macedonia,2015,0.795
+North Macedonia,2020,0.783
+North Macedonia,2021,0.781
+North Macedonia,2022,0.811
+North Macedonia,2023,0.815
+Armenia,1990,0.663
+Armenia,2000,0.667
+Armenia,2010,0.747
+Armenia,2015,0.777
+Armenia,2020,0.761
+Armenia,2021,0.786
+Armenia,2022,0.801
+Armenia,2023,0.811
+Barbados,1990,0.73
+Barbados,2000,0.762
+Barbados,2010,0.797
+Barbados,2015,0.8
+Barbados,2020,0.803
+Barbados,2021,0.803
+Barbados,2022,0.807
+Barbados,2023,0.811
+Albania,1990,0.654
+Albania,2000,0.682
+Albania,2010,0.769
+Albania,2015,0.797
+Albania,2020,0.794
+Albania,2021,0.794
+Albania,2022,0.806
+Albania,2023,0.81
+Trinidad and Tobago,1990,0.661
+Trinidad and Tobago,2000,0.714
+Trinidad and Tobago,2010,0.789
+Trinidad and Tobago,2015,0.808
+Trinidad and Tobago,2020,0.8
+Trinidad and Tobago,2021,0.796
+Trinidad and Tobago,2022,0.805
+Trinidad and Tobago,2023,0.807
+Mauritius,1990,0.627
+Mauritius,2000,0.683
+Mauritius,2010,0.755
+Mauritius,2015,0.792
+Mauritius,2020,0.795
+Mauritius,2021,0.789
+Mauritius,2022,0.794
+Mauritius,2023,0.806
+Bosnia and Herzegovina,1990,0
+Bosnia and Herzegovina,2000,0.674
+Bosnia and Herzegovina,2010,0.725
+Bosnia and Herzegovina,2015,0.769
+Bosnia and Herzegovina,2020,0.783
+Bosnia and Herzegovina,2021,0.783
+Bosnia and Herzegovina,2022,0.799
+Bosnia and Herzegovina,2023,0.804
+Iran (Islamic Republic of),1990,0.626
+Iran (Islamic Republic of),2000,0.71
+Iran (Islamic Republic of),2010,0.778
+Iran (Islamic Republic of),2015,0.788
+Iran (Islamic Republic of),2020,0.775
+Iran (Islamic Republic of),2021,0.777
+Iran (Islamic Republic of),2022,0.793
+Iran (Islamic Republic of),2023,0.799
+Saint Vincent and the Grenadines,1990,0
+Saint Vincent and the Grenadines,2000,0.7
+Saint Vincent and the Grenadines,2010,0.746
+Saint Vincent and the Grenadines,2015,0.765
+Saint Vincent and the Grenadines,2020,0.781
+Saint Vincent and the Grenadines,2021,0.781
+Saint Vincent and the Grenadines,2022,0.794
+Saint Vincent and the Grenadines,2023,0.798
+Thailand,1990,0.584
+Thailand,2000,0.657
+Thailand,2010,0.742
+Thailand,2015,0.788
+Thailand,2020,0.798
+Thailand,2021,0.8
+Thailand,2022,0.792
+Thailand,2023,0.798
+China,1990,0.491
+China,2000,0.598
+China,2010,0.71
+China,2015,0.75
+China,2020,0.786
+China,2021,0.794
+China,2022,0.796
+China,2023,0.797
+Peru,1990,0.625
+Peru,2000,0.682
+Peru,2010,0.731
+Peru,2015,0.768
+Peru,2020,0.769
+Peru,2021,0.764
+Peru,2022,0.79
+Peru,2023,0.794
+Grenada,1990,0
+Grenada,2000,0
+Grenada,2010,0.771
+Grenada,2015,0.782
+Grenada,2020,0.782
+Grenada,2021,0.782
+Grenada,2022,0.789
+Grenada,2023,0.791
+Azerbaijan,1990,0
+Azerbaijan,2000,0.652
+Azerbaijan,2010,0.744
+Azerbaijan,2015,0.771
+Azerbaijan,2020,0.757
+Azerbaijan,2021,0.765
+Azerbaijan,2022,0.784
+Azerbaijan,2023,0.789
+Mexico,1990,0.668
+Mexico,2000,0.712
+Mexico,2010,0.751
+Mexico,2015,0.773
+Mexico,2020,0.763
+Mexico,2021,0.761
+Mexico,2022,0.783
+Mexico,2023,0.789
+Colombia,1990,0.623
+Colombia,2000,0.679
+Colombia,2010,0.741
+Colombia,2015,0.767
+Colombia,2020,0.764
+Colombia,2021,0.762
+Colombia,2022,0.782
+Colombia,2023,0.788
+Brazil,1990,0.641
+Brazil,2000,0.69
+Brazil,2010,0.748
+Brazil,2015,0.764
+Brazil,2020,0.77
+Brazil,2021,0.768
+Brazil,2022,0.78
+Brazil,2023,0.786
+Palau,1990,0
+Palau,2000,0.736
+Palau,2010,0.779
+Palau,2015,0.802
+Palau,2020,0.799
+Palau,2021,0.789
+Palau,2022,0.786
+Palau,2023,0.786
+Moldova (Republic of),1990,0
+Moldova (Republic of),2000,0
+Moldova (Republic of),2010,0.739
+Moldova (Republic of),2015,0.759
+Moldova (Republic of),2020,0.77
+Moldova (Republic of),2021,0.773
+Moldova (Republic of),2022,0.784
+Moldova (Republic of),2023,0.785
+Ukraine,1990,0.75
+Ukraine,2000,0.716
+Ukraine,2010,0.782
+Ukraine,2015,0.778
+Ukraine,2020,0.783
+Ukraine,2021,0.772
+Ukraine,2022,0.772
+Ukraine,2023,0.779
+Ecuador,1990,0.646
+Ecuador,2000,0.683
+Ecuador,2010,0.737
+Ecuador,2015,0.764
+Ecuador,2020,0.74
+Ecuador,2021,0.753
+Ecuador,2022,0.773
+Ecuador,2023,0.777
+Dominican Republic,1990,0.589
+Dominican Republic,2000,0.658
+Dominican Republic,2010,0.715
+Dominican Republic,2015,0.747
+Dominican Republic,2020,0.767
+Dominican Republic,2021,0.762
+Dominican Republic,2022,0.778
+Dominican Republic,2023,0.776
+Guyana,1990,0.494
+Guyana,2000,0.567
+Guyana,2010,0.647
+Guyana,2015,0.683
+Guyana,2020,0.722
+Guyana,2021,0.713
+Guyana,2022,0.763
+Guyana,2023,0.776
+Sri Lanka,1990,0.638
+Sri Lanka,2000,0.702
+Sri Lanka,2010,0.748
+Sri Lanka,2015,0.769
+Sri Lanka,2020,0.78
+Sri Lanka,2021,0.777
+Sri Lanka,2022,0.777
+Sri Lanka,2023,0.776
+Tonga,1990,0.641
+Tonga,2000,0.688
+Tonga,2010,0.724
+Tonga,2015,0.743
+Tonga,2020,0.765
+Tonga,2021,0.763
+Tonga,2022,0.764
+Tonga,2023,0.769
+Maldives,1990,0
+Maldives,2000,0.639
+Maldives,2010,0.689
+Maldives,2015,0.725
+Maldives,2020,0.73
+Maldives,2021,0.745
+Maldives,2022,0.764
+Maldives,2023,0.766
+Viet Nam,1990,0.499
+Viet Nam,2000,0.604
+Viet Nam,2010,0.686
+Viet Nam,2015,0.717
+Viet Nam,2020,0.755
+Viet Nam,2021,0.754
+Viet Nam,2022,0.764
+Viet Nam,2023,0.766
+Turkmenistan,1990,0
+Turkmenistan,2000,0
+Turkmenistan,2010,0.7
+Turkmenistan,2015,0.725
+Turkmenistan,2020,0.744
+Turkmenistan,2021,0.754
+Turkmenistan,2022,0.761
+Turkmenistan,2023,0.764
+Algeria,1990,0.595
+Algeria,2000,0.651
+Algeria,2010,0.718
+Algeria,2015,0.737
+Algeria,2020,0.742
+Algeria,2021,0.755
+Algeria,2022,0.761
+Algeria,2023,0.763
+Cuba,1990,0.687
+Cuba,2000,0.697
+Cuba,2010,0.783
+Cuba,2015,0.769
+Cuba,2020,0.762
+Cuba,2021,0.745
+Cuba,2022,0.764
+Cuba,2023,0.762
+Dominica,1990,0
+Dominica,2000,0.721
+Dominica,2010,0.747
+Dominica,2015,0.741
+Dominica,2020,0.753
+Dominica,2021,0.749
+Dominica,2022,0.759
+Dominica,2023,0.761
+Paraguay,1990,0.607
+Paraguay,2000,0.664
+Paraguay,2010,0.709
+Paraguay,2015,0.737
+Paraguay,2020,0.742
+Paraguay,2021,0.723
+Paraguay,2022,0.747
+Paraguay,2023,0.756
+Egypt,1990,0.572
+Egypt,2000,0.639
+Egypt,2010,0.677
+Egypt,2015,0.706
+Egypt,2020,0.736
+Egypt,2021,0.738
+Egypt,2022,0.751
+Egypt,2023,0.754
+Jordan,1990,0.619
+Jordan,2000,0.672
+Jordan,2010,0.732
+Jordan,2015,0.743
+Jordan,2020,0.743
+Jordan,2021,0.736
+Jordan,2022,0.751
+Jordan,2023,0.754
+Lebanon,1990,0
+Lebanon,2000,0
+Lebanon,2010,0.75
+Lebanon,2015,0.763
+Lebanon,2020,0.75
+Lebanon,2021,0.733
+Lebanon,2022,0.755
+Lebanon,2023,0.752
+Saint Lucia,1990,0.683
+Saint Lucia,2000,0.71
+Saint Lucia,2010,0.749
+Saint Lucia,2015,0.757
+Saint Lucia,2020,0.734
+Saint Lucia,2021,0.724
+Saint Lucia,2022,0.747
+Saint Lucia,2023,0.748
+Mongolia,1990,0.593
+Mongolia,2000,0.611
+Mongolia,2010,0.714
+Mongolia,2015,0.753
+Mongolia,2020,0.741
+Mongolia,2021,0.727
+Mongolia,2022,0.742
+Mongolia,2023,0.747
+Tunisia,1990,0.569
+Tunisia,2000,0.654
+Tunisia,2010,0.717
+Tunisia,2015,0.728
+Tunisia,2020,0.733
+Tunisia,2021,0.728
+Tunisia,2022,0.745
+Tunisia,2023,0.746
+South Africa,1990,0.633
+South Africa,2000,0.618
+South Africa,2010,0.669
+South Africa,2015,0.722
+South Africa,2020,0.724
+South Africa,2021,0.721
+South Africa,2022,0.737
+South Africa,2023,0.741
+Uzbekistan,1990,0
+Uzbekistan,2000,0.603
+Uzbekistan,2010,0.681
+Uzbekistan,2015,0.707
+Uzbekistan,2020,0.723
+Uzbekistan,2021,0.727
+Uzbekistan,2022,0.737
+Uzbekistan,2023,0.74
+Bolivia (Plurinational State of),1990,0.552
+Bolivia (Plurinational State of),2000,0.63
+Bolivia (Plurinational State of),2010,0.677
+Bolivia (Plurinational State of),2015,0.704
+Bolivia (Plurinational State of),2020,0.697
+Bolivia (Plurinational State of),2021,0.693
+Bolivia (Plurinational State of),2022,0.727
+Bolivia (Plurinational State of),2023,0.733
+Gabon,1990,0.621
+Gabon,2000,0.652
+Gabon,2010,0.684
+Gabon,2015,0.72
+Gabon,2020,0.732
+Gabon,2021,0.72
+Gabon,2022,0.73
+Gabon,2023,0.733
+Marshall Islands,1990,0
+Marshall Islands,2000,0
+Marshall Islands,2010,0
+Marshall Islands,2015,0.691
+Marshall Islands,2020,0.722
+Marshall Islands,2021,0.723
+Marshall Islands,2022,0.732
+Marshall Islands,2023,0.733
+Botswana,1990,0.59
+Botswana,2000,0.594
+Botswana,2010,0.652
+Botswana,2015,0.69
+Botswana,2020,0.718
+Botswana,2021,0.7
+Botswana,2022,0.729
+Botswana,2023,0.731
+Fiji,1990,0.629
+Fiji,2000,0.668
+Fiji,2010,0.697
+Fiji,2015,0.715
+Fiji,2020,0.718
+Fiji,2021,0.705
+Fiji,2022,0.726
+Fiji,2023,0.731
+Indonesia,1990,0.531
+Indonesia,2000,0.6
+Indonesia,2010,0.67
+Indonesia,2015,0.701
+Indonesia,2020,0.71
+Indonesia,2021,0.707
+Indonesia,2022,0.726
+Indonesia,2023,0.728
+Suriname,1990,0
+Suriname,2000,0
+Suriname,2010,0.707
+Suriname,2015,0.718
+Suriname,2020,0.714
+Suriname,2021,0.697
+Suriname,2022,0.719
+Suriname,2023,0.722
+Belize,1990,0.617
+Belize,2000,0.671
+Belize,2010,0.727
+Belize,2015,0.721
+Belize,2020,0.713
+Belize,2021,0.713
+Belize,2022,0.717
+Belize,2023,0.721
+Libya,1990,0.69
+Libya,2000,0.727
+Libya,2010,0.755
+Libya,2015,0.728
+Libya,2020,0.688
+Libya,2021,0.729
+Libya,2022,0.741
+Libya,2023,0.721
+Jamaica,1990,0.662
+Jamaica,2000,0.659
+Jamaica,2010,0.708
+Jamaica,2015,0.713
+Jamaica,2020,0.711
+Jamaica,2021,0.703
+Jamaica,2022,0.718
+Jamaica,2023,0.72
+Kyrgyzstan,1990,0.649
+Kyrgyzstan,2000,0.627
+Kyrgyzstan,2010,0.668
+Kyrgyzstan,2015,0.695
+Kyrgyzstan,2020,0.7
+Kyrgyzstan,2021,0.704
+Kyrgyzstan,2022,0.717
+Kyrgyzstan,2023,0.72
+Philippines,1990,0.593
+Philippines,2000,0.632
+Philippines,2010,0.669
+Philippines,2015,0.69
+Philippines,2020,0.699
+Philippines,2021,0.69
+Philippines,2022,0.714
+Philippines,2023,0.72
+Morocco,1990,0.451
+Morocco,2000,0.528
+Morocco,2010,0.607
+Morocco,2015,0.659
+Morocco,2020,0.683
+Morocco,2021,0.69
+Morocco,2022,0.704
+Morocco,2023,0.71
+Venezuela (Bolivarian Republic of),1990,0.658
+Venezuela (Bolivarian Republic of),2000,0.703
+Venezuela (Bolivarian Republic of),2010,0.764
+Venezuela (Bolivarian Republic of),2015,0.768
+Venezuela (Bolivarian Republic of),2020,0.699
+Venezuela (Bolivarian Republic of),2021,0.696
+Venezuela (Bolivarian Republic of),2022,0.706
+Venezuela (Bolivarian Republic of),2023,0.709
+Samoa,1990,0
+Samoa,2000,0.676
+Samoa,2010,0.708
+Samoa,2015,0.708
+Samoa,2020,0.708
+Samoa,2021,0.706
+Samoa,2022,0.703
+Samoa,2023,0.708
+Nicaragua,1990,0.515
+Nicaragua,2000,0.593
+Nicaragua,2010,0.651
+Nicaragua,2015,0.679
+Nicaragua,2020,0.676
+Nicaragua,2021,0.682
+Nicaragua,2022,0.701
+Nicaragua,2023,0.706
+Nauru,1990,0
+Nauru,2000,0
+Nauru,2010,0.616
+Nauru,2015,0.66
+Nauru,2020,0.684
+Nauru,2021,0.692
+Nauru,2022,0.7
+Nauru,2023,0.703
+Bhutan,1990,0
+Bhutan,2000,0
+Bhutan,2010,0.593
+Bhutan,2015,0.637
+Bhutan,2020,0.688
+Bhutan,2021,0.691
+Bhutan,2022,0.695
+Bhutan,2023,0.698
+Eswatini (Kingdom of),1990,0.57
+Eswatini (Kingdom of),2000,0.493
+Eswatini (Kingdom of),2010,0.534
+Eswatini (Kingdom of),2015,0.607
+Eswatini (Kingdom of),2020,0.657
+Eswatini (Kingdom of),2021,0.658
+Eswatini (Kingdom of),2022,0.695
+Eswatini (Kingdom of),2023,0.695
+Iraq,1990,0.531
+Iraq,2000,0.592
+Iraq,2010,0.65
+Iraq,2015,0.675
+Iraq,2020,0.68
+Iraq,2021,0.687
+Iraq,2022,0.695
+Iraq,2023,0.695
+Tajikistan,1990,0
+Tajikistan,2000,0.554
+Tajikistan,2010,0.639
+Tajikistan,2015,0.658
+Tajikistan,2020,0.664
+Tajikistan,2021,0.672
+Tajikistan,2022,0.687
+Tajikistan,2023,0.691
+Tuvalu,1990,0.566
+Tuvalu,2000,0.61
+Tuvalu,2010,0.636
+Tuvalu,2015,0.658
+Tuvalu,2020,0.681
+Tuvalu,2021,0.681
+Tuvalu,2022,0.686
+Tuvalu,2023,0.689
+Bangladesh,1990,0.397
+Bangladesh,2000,0.477
+Bangladesh,2010,0.561
+Bangladesh,2015,0.621
+Bangladesh,2020,0.663
+Bangladesh,2021,0.663
+Bangladesh,2022,0.68
+Bangladesh,2023,0.685
+India,1990,0.446
+India,2000,0.501
+India,2010,0.59
+India,2015,0.633
+India,2020,0.652
+India,2021,0.647
+India,2022,0.676
+India,2023,0.685
+El Salvador,1990,0.523
+El Salvador,2000,0.607
+El Salvador,2010,0.66
+El Salvador,2015,0.667
+El Salvador,2020,0.66
+El Salvador,2021,0.663
+El Salvador,2022,0.674
+El Salvador,2023,0.678
+Equatorial Guinea,1990,0
+Equatorial Guinea,2000,0.508
+Equatorial Guinea,2010,0.612
+Equatorial Guinea,2015,0.656
+Equatorial Guinea,2020,0.668
+Equatorial Guinea,2021,0.671
+Equatorial Guinea,2022,0.677
+Equatorial Guinea,2023,0.674
+"Palestine, State of",1990,0
+"Palestine, State of",2000,0
+"Palestine, State of",2010,0.691
+"Palestine, State of",2015,0.712
+"Palestine, State of",2020,0.718
+"Palestine, State of",2021,0.718
+"Palestine, State of",2022,0.733
+"Palestine, State of",2023,0.674
+Cabo Verde,1990,0
+Cabo Verde,2000,0.585
+Cabo Verde,2010,0.648
+Cabo Verde,2015,0.658
+Cabo Verde,2020,0.647
+Cabo Verde,2021,0.651
+Cabo Verde,2022,0.664
+Cabo Verde,2023,0.668
+Namibia,1990,0.597
+Namibia,2000,0.561
+Namibia,2010,0.591
+Namibia,2015,0.63
+Namibia,2020,0.647
+Namibia,2021,0.631
+Namibia,2022,0.649
+Namibia,2023,0.665
+Guatemala,1990,0.499
+Guatemala,2000,0.563
+Guatemala,2010,0.623
+Guatemala,2015,0.638
+Guatemala,2020,0.645
+Guatemala,2021,0.639
+Guatemala,2022,0.655
+Guatemala,2023,0.662
+Congo,1990,0.573
+Congo,2000,0.545
+Congo,2010,0.609
+Congo,2015,0.643
+Congo,2020,0.643
+Congo,2021,0.643
+Congo,2022,0.644
+Congo,2023,0.649
+Honduras,1990,0.516
+Honduras,2000,0.558
+Honduras,2010,0.596
+Honduras,2015,0.61
+Honduras,2020,0.625
+Honduras,2021,0.628
+Honduras,2022,0.643
+Honduras,2023,0.645
+Kiribati,1990,0
+Kiribati,2000,0
+Kiribati,2010,0.6
+Kiribati,2015,0.623
+Kiribati,2020,0.632
+Kiribati,2021,0.631
+Kiribati,2022,0.642
+Kiribati,2023,0.644
+Sao Tome and Principe,1990,0
+Sao Tome and Principe,2000,0
+Sao Tome and Principe,2010,0.564
+Sao Tome and Principe,2015,0.608
+Sao Tome and Principe,2020,0.628
+Sao Tome and Principe,2021,0.631
+Sao Tome and Principe,2022,0.636
+Sao Tome and Principe,2023,0.637
+Timor-Leste,1990,0
+Timor-Leste,2000,0.507
+Timor-Leste,2010,0.645
+Timor-Leste,2015,0.628
+Timor-Leste,2020,0.65
+Timor-Leste,2021,0.644
+Timor-Leste,2022,0.633
+Timor-Leste,2023,0.634
+Ghana,1990,0.432
+Ghana,2000,0.487
+Ghana,2010,0.558
+Ghana,2015,0.588
+Ghana,2020,0.614
+Ghana,2021,0.618
+Ghana,2022,0.625
+Ghana,2023,0.628
+Kenya,1990,0.485
+Kenya,2000,0.5
+Kenya,2010,0.552
+Kenya,2015,0.583
+Kenya,2020,0.6
+Kenya,2021,0.608
+Kenya,2022,0.626
+Kenya,2023,0.628
+Nepal,1990,0.404
+Nepal,2000,0.471
+Nepal,2010,0.551
+Nepal,2015,0.575
+Nepal,2020,0.599
+Nepal,2021,0.596
+Nepal,2022,0.605
+Nepal,2023,0.622
+Vanuatu,1990,0
+Vanuatu,2000,0
+Vanuatu,2010,0.582
+Vanuatu,2015,0.599
+Vanuatu,2020,0.617
+Vanuatu,2021,0.615
+Vanuatu,2022,0.621
+Vanuatu,2023,0.621
+Lao People's Democratic Republic,1990,0.409
+Lao People's Democratic Republic,2000,0.473
+Lao People's Democratic Republic,2010,0.556
+Lao People's Democratic Republic,2015,0.604
+Lao People's Democratic Republic,2020,0.616
+Lao People's Democratic Republic,2021,0.613
+Lao People's Democratic Republic,2022,0.614
+Lao People's Democratic Republic,2023,0.617
+Angola,1990,0
+Angola,2000,0.391
+Angola,2010,0.528
+Angola,2015,0.603
+Angola,2020,0.61
+Angola,2021,0.609
+Angola,2022,0.615
+Angola,2023,0.616
+Micronesia (Federated States of),1990,0
+Micronesia (Federated States of),2000,0.596
+Micronesia (Federated States of),2010,0.603
+Micronesia (Federated States of),2015,0.604
+Micronesia (Federated States of),2020,0.609
+Micronesia (Federated States of),2021,0.611
+Micronesia (Federated States of),2022,0.614
+Micronesia (Federated States of),2023,0.615
+Myanmar,1990,0.347
+Myanmar,2000,0.415
+Myanmar,2010,0.515
+Myanmar,2015,0.566
+Myanmar,2020,0.609
+Myanmar,2021,0.605
+Myanmar,2022,0.606
+Myanmar,2023,0.609
+Cambodia,1990,0.387
+Cambodia,2000,0.438
+Cambodia,2010,0.543
+Cambodia,2015,0.562
+Cambodia,2020,0.595
+Cambodia,2021,0.594
+Cambodia,2022,0.602
+Cambodia,2023,0.606
+Comoros,1990,0
+Comoros,2000,0.461
+Comoros,2010,0.534
+Comoros,2015,0.565
+Comoros,2020,0.592
+Comoros,2021,0.594
+Comoros,2022,0.602
+Comoros,2023,0.603
+Zimbabwe,1990,0.5
+Zimbabwe,2000,0.458
+Zimbabwe,2010,0.512
+Zimbabwe,2015,0.567
+Zimbabwe,2020,0.582
+Zimbabwe,2021,0.581
+Zimbabwe,2022,0.594
+Zimbabwe,2023,0.598
+Zambia,1990,0.422
+Zambia,2000,0.429
+Zambia,2010,0.533
+Zambia,2015,0.565
+Zambia,2020,0.578
+Zambia,2021,0.574
+Zambia,2022,0.589
+Zambia,2023,0.595
+Cameroon,1990,0.448
+Cameroon,2000,0.439
+Cameroon,2010,0.529
+Cameroon,2015,0.575
+Cameroon,2020,0.579
+Cameroon,2021,0.574
+Cameroon,2022,0.581
+Cameroon,2023,0.588
+Solomon Islands,1990,0
+Solomon Islands,2000,0.547
+Solomon Islands,2010,0.564
+Solomon Islands,2015,0.576
+Solomon Islands,2020,0.579
+Solomon Islands,2021,0.577
+Solomon Islands,2022,0.583
+Solomon Islands,2023,0.584
+Côte d'Ivoire,1990,0.389
+Côte d'Ivoire,2000,0.419
+Côte d'Ivoire,2010,0.465
+Côte d'Ivoire,2015,0.519
+Côte d'Ivoire,2020,0.553
+Côte d'Ivoire,2021,0.557
+Côte d'Ivoire,2022,0.565
+Côte d'Ivoire,2023,0.582
+Uganda,1990,0.342
+Uganda,2000,0.407
+Uganda,2010,0.514
+Uganda,2015,0.547
+Uganda,2020,0.571
+Uganda,2021,0.573
+Uganda,2022,0.578
+Uganda,2023,0.582
+Rwanda,1990,0
+Rwanda,2000,0.34
+Rwanda,2010,0.504
+Rwanda,2015,0.525
+Rwanda,2020,0.555
+Rwanda,2021,0.562
+Rwanda,2022,0.57
+Rwanda,2023,0.578
+Papua New Guinea,1990,0.403
+Papua New Guinea,2000,0.456
+Papua New Guinea,2010,0.503
+Papua New Guinea,2015,0.543
+Papua New Guinea,2020,0.567
+Papua New Guinea,2021,0.567
+Papua New Guinea,2022,0.572
+Papua New Guinea,2023,0.576
+Togo,1990,0.412
+Togo,2000,0.448
+Togo,2010,0.483
+Togo,2015,0.523
+Togo,2020,0.554
+Togo,2021,0.56
+Togo,2022,0.567
+Togo,2023,0.571
+Syrian Arab Republic,1990,0.572
+Syrian Arab Republic,2000,0.594
+Syrian Arab Republic,2010,0.669
+Syrian Arab Republic,2015,0.549
+Syrian Arab Republic,2020,0.57
+Syrian Arab Republic,2021,0.571
+Syrian Arab Republic,2022,0.571
+Syrian Arab Republic,2023,0.564
+Mauritania,1990,0.396
+Mauritania,2000,0.468
+Mauritania,2010,0.525
+Mauritania,2015,0.551
+Mauritania,2020,0.554
+Mauritania,2021,0.553
+Mauritania,2022,0.562
+Mauritania,2023,0.563
+Nigeria,1990,0.379
+Nigeria,2000,0.435
+Nigeria,2010,0.502
+Nigeria,2015,0.53
+Nigeria,2020,0.547
+Nigeria,2021,0.554
+Nigeria,2022,0.557
+Nigeria,2023,0.56
+Tanzania (United Republic of),1990,0.381
+Tanzania (United Republic of),2000,0.414
+Tanzania (United Republic of),2010,0.513
+Tanzania (United Republic of),2015,0.52
+Tanzania (United Republic of),2020,0.554
+Tanzania (United Republic of),2021,0.548
+Tanzania (United Republic of),2022,0.554
+Tanzania (United Republic of),2023,0.555
+Haiti,1990,0.461
+Haiti,2000,0.497
+Haiti,2010,0.452
+Haiti,2015,0.552
+Haiti,2020,0.555
+Haiti,2021,0.548
+Haiti,2022,0.552
+Haiti,2023,0.554
+Lesotho,1990,0.483
+Lesotho,2000,0.462
+Lesotho,2010,0.478
+Lesotho,2015,0.517
+Lesotho,2020,0.537
+Lesotho,2021,0.532
+Lesotho,2022,0.547
+Lesotho,2023,0.55
+Pakistan,1990,0.396
+Pakistan,2000,0.436
+Pakistan,2010,0.5
+Pakistan,2015,0.527
+Pakistan,2020,0.536
+Pakistan,2021,0.537
+Pakistan,2022,0.544
+Pakistan,2023,0.544
+Senegal,1990,0.377
+Senegal,2000,0.398
+Senegal,2010,0.477
+Senegal,2015,0.509
+Senegal,2020,0.522
+Senegal,2021,0.522
+Senegal,2022,0.526
+Senegal,2023,0.53
+Gambia,1990,0.331
+Gambia,2000,0.403
+Gambia,2010,0.463
+Gambia,2015,0.482
+Gambia,2020,0.512
+Gambia,2021,0.513
+Gambia,2022,0.519
+Gambia,2023,0.524
+Congo (Democratic Republic of the),1990,0.388
+Congo (Democratic Republic of the),2000,0.391
+Congo (Democratic Republic of the),2010,0.44
+Congo (Democratic Republic of the),2015,0.477
+Congo (Democratic Republic of the),2020,0.506
+Congo (Democratic Republic of the),2021,0.508
+Congo (Democratic Republic of the),2022,0.514
+Congo (Democratic Republic of the),2023,0.522
+Malawi,1990,0.306
+Malawi,2000,0.394
+Malawi,2010,0.475
+Malawi,2015,0.504
+Malawi,2020,0.512
+Malawi,2021,0.509
+Malawi,2022,0.513
+Malawi,2023,0.517
+Benin,1990,0.351
+Benin,2000,0.415
+Benin,2010,0.485
+Benin,2015,0.511
+Benin,2020,0.504
+Benin,2021,0.506
+Benin,2022,0.512
+Benin,2023,0.515
+Guinea-Bissau,1990,0
+Guinea-Bissau,2000,0
+Guinea-Bissau,2010,0.452
+Guinea-Bissau,2015,0.481
+Guinea-Bissau,2020,0.498
+Guinea-Bissau,2021,0.502
+Guinea-Bissau,2022,0.511
+Guinea-Bissau,2023,0.514
+Djibouti,1990,0
+Djibouti,2000,0.337
+Djibouti,2010,0.421
+Djibouti,2015,0.469
+Djibouti,2020,0.499
+Djibouti,2021,0.501
+Djibouti,2022,0.51
+Djibouti,2023,0.513
+Sudan,1990,0
+Sudan,2000,0
+Sudan,2010,0.479
+Sudan,2015,0.498
+Sudan,2020,0.513
+Sudan,2021,0.512
+Sudan,2022,0.516
+Sudan,2023,0.511
+Liberia,1990,0
+Liberia,2000,0.443
+Liberia,2010,0.467
+Liberia,2015,0.48
+Liberia,2020,0.498
+Liberia,2021,0.503
+Liberia,2022,0.508
+Liberia,2023,0.51
+Eritrea,1990,0
+Eritrea,2000,0
+Eritrea,2010,0.465
+Eritrea,2015,0.48
+Eritrea,2020,0.495
+Eritrea,2021,0.496
+Eritrea,2022,0.499
+Eritrea,2023,0.503
+Guinea,1990,0.282
+Guinea,2000,0.359
+Guinea,2010,0.43
+Guinea,2015,0.465
+Guinea,2020,0.488
+Guinea,2021,0.49
+Guinea,2022,0.498
+Guinea,2023,0.5
+Ethiopia,1990,0
+Ethiopia,2000,0.293
+Ethiopia,2010,0.415
+Ethiopia,2015,0.456
+Ethiopia,2020,0.486
+Ethiopia,2021,0.487
+Ethiopia,2022,0.494
+Ethiopia,2023,0.497
+Afghanistan,1990,0.285
+Afghanistan,2000,0.351
+Afghanistan,2010,0.465
+Afghanistan,2015,0.496
+Afghanistan,2020,0.501
+Afghanistan,2021,0.486
+Afghanistan,2022,0.495
+Afghanistan,2023,0.496
+Mozambique,1990,0.246
+Mozambique,2000,0.311
+Mozambique,2010,0.419
+Mozambique,2015,0.457
+Mozambique,2020,0.477
+Mozambique,2021,0.478
+Mozambique,2022,0.49
+Mozambique,2023,0.493
+Madagascar,1990,0
+Madagascar,2000,0.443
+Madagascar,2010,0.493
+Madagascar,2015,0.501
+Madagascar,2020,0.483
+Madagascar,2021,0.481
+Madagascar,2022,0.483
+Madagascar,2023,0.487
+Yemen,1990,0.359
+Yemen,2000,0.439
+Yemen,2010,0.502
+Yemen,2015,0.475
+Yemen,2020,0.459
+Yemen,2021,0.458
+Yemen,2022,0.466
+Yemen,2023,0.47
+Sierra Leone,1990,0.313
+Sierra Leone,2000,0.318
+Sierra Leone,2010,0.41
+Sierra Leone,2015,0.432
+Sierra Leone,2020,0.454
+Sierra Leone,2021,0.458
+Sierra Leone,2022,0.463
+Sierra Leone,2023,0.467
+Burkina Faso,1990,0
+Burkina Faso,2000,0
+Burkina Faso,2010,0.377
+Burkina Faso,2015,0.419
+Burkina Faso,2020,0.453
+Burkina Faso,2021,0.454
+Burkina Faso,2022,0.457
+Burkina Faso,2023,0.459
+Burundi,1990,0.294
+Burundi,2000,0.308
+Burundi,2010,0.416
+Burundi,2015,0.432
+Burundi,2020,0.435
+Burundi,2021,0.435
+Burundi,2022,0.437
+Burundi,2023,0.439
+Mali,1990,0.24
+Mali,2000,0.32
+Mali,2010,0.41
+Mali,2015,0.413
+Mali,2020,0.414
+Mali,2021,0.414
+Mali,2022,0.417
+Mali,2023,0.419
+Niger,1990,0.215
+Niger,2000,0.266
+Niger,2010,0.339
+Niger,2015,0.374
+Niger,2020,0.404
+Niger,2021,0.413
+Niger,2022,0.414
+Niger,2023,0.419
+Chad,1990,0
+Chad,2000,0.303
+Chad,2010,0.375
+Chad,2015,0.396
+Chad,2020,0.408
+Chad,2021,0.408
+Chad,2022,0.414
+Chad,2023,0.416
+Central African Republic,1990,0.342
+Central African Republic,2000,0.333
+Central African Republic,2010,0.358
+Central African Republic,2015,0.377
+Central African Republic,2020,0.386
+Central African Republic,2021,0.339
+Central African Republic,2022,0
+Central African Republic,2023,0.414
+Somalia,1990,0
+Somalia,2000,0
+Somalia,2010,0
+Somalia,2015,0
+Somalia,2020,0
+Somalia,2021,0
+Somalia,2022,0.385
+Somalia,2023,0.404
+South Sudan,1990,0
+South Sudan,2000,0
+South Sudan,2010,0.42
+South Sudan,2015,0.317
+South Sudan,2020,0.398
+South Sudan,2021,0.393
+South Sudan,2022,0.388
+South Sudan,2023,0.388
+Korea (Democratic People's Rep. of),1990,0
+Korea (Democratic People's Rep. of),2000,0
+Korea (Democratic People's Rep. of),2010,0
+Korea (Democratic People's Rep. of),2015,0
+Korea (Democratic People's Rep. of),2020,0
+Korea (Democratic People's Rep. of),2021,0
+Korea (Democratic People's Rep. of),2022,0
+Korea (Democratic People's Rep. of),2023,0
+Monaco,1990,0
+Monaco,2000,0
+Monaco,2010,0
+Monaco,2015,0
+Monaco,2020,0
+Monaco,2021,0
+Monaco,2022,0
+Monaco,2023,0

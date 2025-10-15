@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Global Development Visualisations</title>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #5499de;
+      color: #333;
+      margin: 0;
+      display: flex;
+      justify-content: center;
+      background-image: url('https://img.freepik.com/free-vector/gradient-stock-market-concept_23-2149166929.jpg');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+    }
+
+    .main-container {
+      width: 90%;
+      max-width: 1200px;
+      background: #ffffff;
+      padding: 40px;
+      margin: 40px 0;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 40px;
+      color: #1e6091;
+    }
+
+    h2, h3 {
+      text-align: center;
+      color: #333;
+    }
+
+    .vis-container {
+      background: #fdfdfd;
+      padding: 25px;
+      border-radius: 10px;
+      box-shadow: 0 0 8px rgba(0,0,0,0.05);
+      margin-bottom: 40px;
+    }
+
+    .map-layout {
+      display: flex;
+      gap: 30px;
+      align-items: flex-start;
+    }
+
+    #map {
+      display: inline-block;
+    }
+
+    .map-text {
+      flex: 0 0 250px;
+      font-family: Arial, sans-serif;
+      font-size: 16px;
+      line-height: 1.8;
+      letter-spacing: 0.5px;
+    }
+
+    .map-text p {
+      margin-bottom: 15px;
+    }
+
+    .subtopic {
+      background: #f0f7fc;
+      padding: 15px 25px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+      border-left: 4px solid #1e6091;
+      font-family: Arial, sans-serif;
+    }
+
+    .subtopic h3 {
+      margin: 0;
+      font-size: 20px;
+      color: #1e6091;
+      font-family: Arial, sans-serif;
+    }
+
+    .description {
+      background: #fafafa;
+      padding: 20px 25px;
+      border-radius: 8px;
+      margin-top: 20px;
+      line-height: 1.8;
+      font-size: 15px;
+      color: #555;
+      border: 1px solid #e0e0e0;
+      font-family: Arial, sans-serif;
+    }
+
+    .side-by-side-layout {
+      display: flex;
+      gap: 40px;
+      align-items: flex-start;
+    }
+
+    .side-by-side-layout > div {
+      flex: 1;
+    }
+
+    /* Bar chart container - adjust flex value to change size */
+    .bar-container {
+      flex: 0.5; /* Change this number to adjust width (e.g., 1.2, 0.8) */
+    }
+
+    /* Line chart container - adjust flex value to change size */
+    .line-container {
+      flex: 0.5; /* Change this number to adjust width (e.g., 1.2, 2) */
+    }
+    #bar2 {
+  margin-left: -40px; /* adjust the number as needed */
+}
+ #bar, #line {
+      display: flex;
+      justify-content: center;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="main-container">
+    <h1>Global Economic and Human Development Overview</h1>
+
+    <div class="vis-container">
+      <div class="subtopic">
+        <h3>Global GDP Distribution</h3>
+      </div>
+      <div class="map-layout">
+        <div id="map"></div>
+        <div class="map-text">
+          <p>China was the only major economy to grow in 2020.</p>
+          <p>Brazil's economy heavily relies on commodity exports like soybeans.</p>
+          <p>India has one of the world's fastest growing major economies.</p>
+          <p>The United States has the world's largest economy by GDP.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="vis-container">
+      <div class="subtopic">
+        <h3>Human Development Comparison Analysis</h3>
+      </div>
+      <div class="side-by-side-layout">
+        <div class="bar-container">
+          <div id="bar"></div>
+        </div>
+        <div class="line-container">
+          <div id="bar2"></div>
+        </div>
+      </div>
+      <div class="description" style="font-family: Arial, sans-serif;">
+  <p>Countries with higher GDP often record stronger HDI performance overall. Norway and the United States show both wealth and human progress. India and Nigeria illustrate slower GDP growth and HDI improvement. Regional differences highlight how income directly supports social development. Stronger economies invest more in education, healthcare, and living standards.</p>
+</div>
+    </div>
+        <div class="vis-container">
+      <div class="subtopic">
+        <h3>CO2 Emissons</h3>
+      </div>
+      <div class="side-by-side-layout">
+      <div id="line"></div>
+      <div id="pie"></div>
+      </div>
+      <div class="description" style="font-family: Arial, sans-serif;"> <p>Regions with higher GDP contribute most to global CO₂ emissions overall. Industrialized continents like Asia and North America dominate due to energy-intensive economies. As GDP rises, emissions typically increase, reflecting growth driven by manufacturing and consumption.</p> </div>
+    </div>
+  </div>
+
+  <script type="text/javascript">
+    vegaEmbed('#map', 'GDP_Map.json')
+      .then(() => console.log("GDP Map loaded successfully!"))
+      .catch(console.error);
+
+    vegaEmbed('#bar', 'hdi_line.json')
+      .then(() => console.log("HDI Bar Chart loaded successfully!"))
+      .catch(console.error);
+
+    vegaEmbed('#line', 'co2_emissions.json')
+      .then(() => console.log("Co2 Line Chart loaded successfully!"))
+      .catch(console.error);
+    
+    vegaEmbed('#bar2', 'hdi_bar_region.json')
+      .then(() => console.log("Co2 Line Chart loaded successfully!"))
+      .catch(console.error);
+
+    vegaEmbed('#pie', 'pieChart.json')
+      .then(() => console.log("Co2 Line Chart loaded successfully!"))
+      .catch(console.error);
+  </script>
+</body>
+</html>

@@ -1,0 +1,56 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Annual CO₂ emissions for selected top 8 countries (2015–2020) with data points.",
+  "data": {
+    "url": "annual-co2-emissions-per-country.csv",
+    "format": {
+      "type": "csv",
+      "parse": {"Year": "number", "emissions": "number"}
+    }
+  },
+
+  "transform": [
+    {"filter": "datum.Year >= 2000 && datum.Year <= 2020"},
+    {
+      "filter": "indexof(['United States', 'China', 'India', 'Norway', 'Germany', 'Japan', 'Brazil', 'Iceland', 'Singapore', 'Switzerland'], datum.Entity) >= 0"
+    }
+  ],
+
+  "layer": [
+    {
+      "mark": {
+        "type": "line",
+        "interpolate": "monotone",
+        "strokeWidth": 2,
+        "opacity": 0.8
+      },
+      "encoding": {
+        "x": {"field": "Year", "type": "quantitative", "title": "Year"},
+        "y": {"field": "emissions", "type": "quantitative", "title": "CO₂ Emissions (tonnes)"},
+        "color": {"field": "Entity", "type": "nominal", "title": "Country"}
+      }
+    },
+    {
+      "mark": {
+        "type": "point",
+        "filled": true,
+        "size": 60,
+        "opacity": 1
+      },
+      "encoding": {
+        "x": {"field": "Year", "type": "quantitative"},
+        "y": {"field": "emissions", "type": "quantitative"},
+        "color": {"field": "Entity", "type": "nominal"},
+        "tooltip": [
+          {"field": "Entity", "title": "Country"},
+          {"field": "Year", "title": "Year"},
+          {"field": "emissions", "title": "CO₂ Emissions", "format": ","}
+        ]
+      }
+    }
+  ],
+
+  "width": 400,
+  "height": 350,
+  "title": "Annual CO₂ Emissions (2015–2020) for Selected Top 8 Countries"
+}
