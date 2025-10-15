@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "Human Development Index (HDI) for selected countries by year with dropdown filter and annotation.",
-  "data": {"url": "HDI_Table_Regions.csv"},
+  "data": {"url": "https://raw.githubusercontent.com/Akmalaxe/Assignment2FIT3179/refs/heads/main/HDI_Table_Regions.csv"},
   "layer":[{
     "mark": {"type":"bar",
     "cornerRadiusTopLeft": 4,

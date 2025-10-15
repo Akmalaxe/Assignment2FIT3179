@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "description": "Pie chart showing total CO₂ emissions by continent.",
-  "data": {"url": "co2_greenHouseGas_Emissions.csv"},
+  "data": {"url": "https://raw.githubusercontent.com/Akmalaxe/Assignment2FIT3179/refs/heads/main/co2_greenHouseGas_Emissions.csv"},
   "mark": {"type": "arc", "outerRadius": 150, "tooltip": true},
   "encoding": {
     "theta": {"field": "Total_C02", "type": "quantitative"},

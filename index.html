@@ -178,23 +178,23 @@
   </div>
 
   <script type="text/javascript">
-    vegaEmbed('#map', 'GDP_Map.json')
+    vegaEmbed('#map', 'GDP_Map.json',{actions: false})
       .then(() => console.log("GDP Map loaded successfully!"))
       .catch(console.error);
 
-    vegaEmbed('#bar', 'hdi_line.json')
+    vegaEmbed('#bar', 'hdi_line.json',{actions: false})
       .then(() => console.log("HDI Bar Chart loaded successfully!"))
       .catch(console.error);
 
-    vegaEmbed('#line', 'co2_emissions.json')
+    vegaEmbed('#line', 'co2_emissions.json',{actions: false})
       .then(() => console.log("Co2 Line Chart loaded successfully!"))
       .catch(console.error);
     
-    vegaEmbed('#bar2', 'hdi_bar_region.json')
+    vegaEmbed('#bar2', 'hdi_bar_region.json',{actions: false})
       .then(() => console.log("Co2 Line Chart loaded successfully!"))
       .catch(console.error);
 
-    vegaEmbed('#pie', 'pieChart.json')
+    vegaEmbed('#pie', 'pieChart.json',{actions: false})
       .then(() => console.log("Co2 Line Chart loaded successfully!"))
       .catch(console.error);
   </script>
